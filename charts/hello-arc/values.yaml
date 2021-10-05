@@ -12,7 +12,7 @@ image:
 
 env:
   name: MESSAGE
-  value: Helm chart testing!
+  value: Helm chart testing dong!
 
 imagePullSecrets: []
 nameOverride: ""
